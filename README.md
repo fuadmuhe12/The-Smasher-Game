@@ -1,16 +1,10 @@
-# The-Smasher-Game
-```plaintext
 # Welcome to the Smasher Game
-
-```
-..............................................
 
 ## About the Project:
 
-```plaintext
 Smasher Game is a simple yet engaging console-based game implemented in Java. It provides a quick and fun way to challenge yourself against the computer in a classic Rock, Scissor, Paper showdown.
 
-## How to Play:
+### How to Play:
 
 1. **Select an Element:**
    - Choose from Rock, Scissor, or Paper.
@@ -26,11 +20,9 @@ Smasher Game is a simple yet engaging console-based game implemented in Java. It
 
 Feel the excitement as you try to outsmart the computer in this timeless game!
 
-```
 ..............................................
 ## Rules of the Game:
 
-```plaintext
 Here are the rules you need to know:
 
 1. **Elements in the game:**
@@ -51,9 +43,3 @@ Here are the rules you need to know:
 
    - If Rock and Paper are selected, Paper wins.
      => The Paper wraps the Rock.
-
-```
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-```
-Feel the thrill of the Smasher Game! Choose your element wisely and see who emerges victorious!
-```
